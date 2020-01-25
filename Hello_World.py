@@ -1,2 +1,2 @@
 print("Hello World") # コメント
-print("Good night")
+print("Good night") # test
